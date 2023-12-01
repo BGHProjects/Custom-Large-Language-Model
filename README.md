@@ -11,8 +11,8 @@
 
 ## Overview
 
-- This repository is the result of following this tutorial from Freecodecamp regarding how to build a large language model from scratch using Python
-- The purpose of following [this tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8) was to learn more about large language models, how they work, how they are built, and the machine learning processes required of them
+- This repository is the result of following [this tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8) from Freecodecamp regarding how to build a large language model from scratch using Python
+- The purpose of following this tutorial was to learn more about large language models, how they work, how they are built, and the machine learning processes required of them
 - The datasets used in the creation of these models are not included in this repository, due to their file size
 
 ## Model Architecture
