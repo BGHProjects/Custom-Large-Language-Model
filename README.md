@@ -3,8 +3,8 @@
 </br>
 <div align="center">
 <a href="https://www.python.org/"><img src="./readme_files/Python.png" width="75" height="75"></a>
-<a href="https://pytorch.org/"><img src="./readme_files/Pytorch.png" width="75" height="75"></a>
-<a href="https://jupyter.org/"><img src="./readme_files/Jupyter.png" width="75" height="75"></a>
+<a href="https://pytorch.org/"><img src="./readme_files/Pytorch.png" width="70" height="75"></a>
+<a href="https://jupyter.org/"><img src="./readme_files/Jupyter.png" width="70" height="75"></a>
 </div>
 
 </br>
